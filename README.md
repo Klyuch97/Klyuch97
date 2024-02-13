@@ -19,8 +19,11 @@
 - [mesto-project](https://github.com/Klyuch97/mesto-project) - Сайт с добавлением различных картинок.
 - [russian-travel](https://github.com/Klyuch97/russian-travel) - Проект про путешествия по России.
 
+
 ## Контакты
 
 - Email: klyuch1994@mail.ru
 - Telegram: https://t.me/klyuch97
 - whatsapp: +7 (912) 996-93-07
+
+   Статус занятости: открыт к новым возможностям
