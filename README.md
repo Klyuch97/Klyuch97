@@ -1,5 +1,7 @@
 # Привет, меня зовут Никита!
 
+Добро пожаловать в мой профиль на GitHub. Здесь вы найдете мои проекты, код и другие интересные материалы.
+
 <!--
 **Klyuch97/Klyuch97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
