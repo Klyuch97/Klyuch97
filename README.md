@@ -8,9 +8,9 @@
 
 
 ## Технологии
-- Языки программирования: [JavaScript]
-- Фреймворки: [React, TypeScript, Redux]
-- СУБД: [MongoDB]
+- Языки программирования: JavaScript
+- Фреймворки: React, TypeScript, Redux
+- СУБД: MongoDB
 
 ## Проекты
 
