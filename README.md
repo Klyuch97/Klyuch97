@@ -4,5 +4,5 @@
 
 ## Проекты
 
-- [react-stellar-burger](https://github.com/Klyuch97/react-stellar-burger) - Краткое описание проекта 1.
+- [stellar-burger](https://github.com/Klyuch97/react-stellar-burger) - Сайт космической бургерной.
 - [Название проекта 2](ссылка на проект 2) - Краткое описание проекта 2.
